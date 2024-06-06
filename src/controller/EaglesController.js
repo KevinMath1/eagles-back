@@ -77,5 +77,4 @@ servidor.put('/produto/imagem/:id', upload.single('imagem'), async (req, resp) =
 });
 
 
-
 export default servidor;
